@@ -7,6 +7,8 @@ A space for useful Linux tutorials
 # Users 
 - https://www.shellhacks.com/how-to-grant-root-access-user-root-privileges-linux/
 
+# Sed
+- https://linuxize.com/post/how-to-use-sed-to-find-and-replace-string-in-files/
 
 # UFW
 - https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu-18-04
