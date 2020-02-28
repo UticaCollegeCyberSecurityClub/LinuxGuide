@@ -6,6 +6,7 @@ A space for useful Linux tutorials
 
 # Users 
 - https://www.shellhacks.com/how-to-grant-root-access-user-root-privileges-linux/
+- https://www.cyberciti.biz/faq/linux-list-all-members-of-a-group/
 
 # Sed
 - https://linuxize.com/post/how-to-use-sed-to-find-and-replace-string-in-files/
