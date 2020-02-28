@@ -19,3 +19,4 @@ A space for useful Linux tutorials
 - https://www.freecodecamp.org/news/the-ultimate-guide-to-ssh-setting-up-ssh-keys/
 - https://www.cyberciti.biz/faq/how-to-set-up-ssh-keys-on-linux-unix/
 - https://www.digitalocean.com/community/questions/error-permission-denied-publickey-when-i-try-to-ssh
+- https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-ubuntu-1804
