@@ -17,6 +17,9 @@ A space for useful Linux tutorials
 - https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu-18-04
 - https://help.ubuntu.com/community/UFW
 
+# Keylogging
+- https://www.tecmint.com/how-to-monitor-keyboard-keystrokes-using-logkeys-in-linux/
+
 # SSH
 - https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys--2
 - https://www.freecodecamp.org/news/the-ultimate-guide-to-ssh-setting-up-ssh-keys/
