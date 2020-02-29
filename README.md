@@ -10,6 +10,8 @@ A space for useful Linux tutorials
 - https://www.tecmint.com/create-a-shared-directory-in-linux/
 - https://www.linux.com/tutorials/how-wrestle-control-sudo-sudoers/
 
+# Alias 
+- https://www.tecmint.com/create-alias-in-linux/
 # Sed
 - https://linuxize.com/post/how-to-use-sed-to-find-and-replace-string-in-files/
 
