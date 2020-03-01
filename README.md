@@ -25,6 +25,9 @@ A space for useful Linux tutorials
 - https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu-18-04
 - https://help.ubuntu.com/community/UFW
 
+# Chattr
+- https://www.tecmint.com/chattr-command-examples/
+
 # Monitoring 
 - https://www.tecmint.com/how-to-monitor-keyboard-keystrokes-using-logkeys-in-linux/
 - https://www.tecmint.com/sysdig-system-monitoring-and-troubleshooting-tool-for-linux/
