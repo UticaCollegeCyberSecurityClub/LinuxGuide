@@ -17,6 +17,7 @@ A space for useful Linux tutorials
 # History
 - https://www.tecmint.com/history-command-examples/
 - https://mediatemple.net/community/products/dv/204404624/using-the-history-command
+- https://www.rootusers.com/17-bash-history-command-examples-in-linux/
 
 # UFW
 - https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu-18-04
