@@ -4,6 +4,8 @@ A space for useful Linux tutorials
 # OPEN-SSH
 - Configuring openSSH - https://help.ubuntu.com/community/SSH/OpenSSH/Configuring
 
+# Locales
+- https://www.tecmint.com/set-system-locales-in-linux/
 # Users 
 - https://www.shellhacks.com/how-to-grant-root-access-user-root-privileges-linux/
 - https://www.cyberciti.biz/faq/linux-list-all-members-of-a-group/
