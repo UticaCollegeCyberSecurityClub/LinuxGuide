@@ -22,6 +22,12 @@ A space for useful Linux tutorials
 
 # Alias 
 - https://www.tecmint.com/create-alias-in-linux/
+- https://www.cyberciti.biz/tips/bash-aliases-mac-centos-linux-unix.html
+- https://linux.die.net/man/1/alias
+
+# Life Hacks
+- https://stackoverflow.com/questions/13077241/execute-combine-multiple-linux-commands-in-one-line
+- 
 
 # Sed
 - https://linuxize.com/post/how-to-use-sed-to-find-and-replace-string-in-files/
@@ -35,6 +41,10 @@ A space for useful Linux tutorials
 - https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu-18-04
 - https://help.ubuntu.com/community/UFW
 
+# Which 
+- https://linuxize.com/post/linux-which-command/
+- https://linux.die.net/man/1/which
+- 
 # Chattr
 - https://www.tecmint.com/chattr-command-examples/
 
@@ -59,6 +69,7 @@ A space for useful Linux tutorials
 - https://www.networkworld.com/article/3293052/encypting-your-files-with-gpg.html
 - https://en.wikipedia.org/wiki/GNU_Privacy_Guard
 - https://kb.iu.edu/d/awio
+
 # base64
 - https://linux.die.net/man/1/base64
 - https://superuser.com/questions/120796/how-to-encode-base64-via-command-line
@@ -66,6 +77,14 @@ A space for useful Linux tutorials
 # Wget 
 - https://linux.die.net/man/1/wget
 - https://www.tecmint.com/10-wget-command-examples-in-linux/
+
+# Chmod
+- https://linuxize.com/post/chmod-command-in-linux/
+- https://linuxize.com/post/chmod-recursive/
+- https://linux.die.net/man/1/chmod
+- https://linux.die.net/man/3/explain_chmod
+- https://linux.die.net/man/3/chmod
+- https://askubuntu.com/questions/767504/permissions-problems-with-var-www-html-and-my-own-home-directory-for-a-website
 
 
 # SSH
