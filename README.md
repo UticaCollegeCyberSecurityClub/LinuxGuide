@@ -4,7 +4,7 @@ A space for useful Linux tutorials
 # OPEN-SSH
 - Configuring openSSH - https://help.ubuntu.com/community/SSH/OpenSSH/Configuring
 # md5sum
-= https://help.ubuntu.com/community/HowToMD5SUM
+- https://help.ubuntu.com/community/HowToMD5SUM
 
 # Locales
 - https://www.tecmint.com/set-system-locales-in-linux/
