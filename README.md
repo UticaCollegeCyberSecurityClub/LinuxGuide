@@ -3,9 +3,12 @@ A space for useful Linux tutorials
 
 # OPEN-SSH
 - Configuring openSSH - https://help.ubuntu.com/community/SSH/OpenSSH/Configuring
+# md5sum
+= https://help.ubuntu.com/community/HowToMD5SUM
 
 # Locales
 - https://www.tecmint.com/set-system-locales-in-linux/
+
 # Users 
 - https://www.shellhacks.com/how-to-grant-root-access-user-root-privileges-linux/
 - https://www.cyberciti.biz/faq/linux-list-all-members-of-a-group/
@@ -14,8 +17,10 @@ A space for useful Linux tutorials
 
 # Alias 
 - https://www.tecmint.com/create-alias-in-linux/
+
 # Sed
 - https://linuxize.com/post/how-to-use-sed-to-find-and-replace-string-in-files/
+
 # History
 - https://www.tecmint.com/history-command-examples/
 - https://mediatemple.net/community/products/dv/204404624/using-the-history-command
@@ -28,9 +33,30 @@ A space for useful Linux tutorials
 # Chattr
 - https://www.tecmint.com/chattr-command-examples/
 
+# Screen 
+- https://linuxize.com/post/how-to-use-linux-screen/
+- https://www.tecmint.com/screen-command-examples-to-manage-linux-terminals/
+
+
 # Monitoring 
 - https://www.tecmint.com/how-to-monitor-keyboard-keystrokes-using-logkeys-in-linux/
 - https://www.tecmint.com/sysdig-system-monitoring-and-troubleshooting-tool-for-linux/
+
+# TorSock
+- https://trac.torproject.org/projects/tor/wiki/doc/torsocks
+
+# GPG
+- https://www.networkworld.com/article/3293052/encypting-your-files-with-gpg.html
+- https://en.wikipedia.org/wiki/GNU_Privacy_Guard
+- https://kb.iu.edu/d/awio
+# base64
+- https://linux.die.net/man/1/base64
+- https://superuser.com/questions/120796/how-to-encode-base64-via-command-line
+
+# Wget 
+- https://linux.die.net/man/1/wget
+- https://www.tecmint.com/10-wget-command-examples-in-linux/
+
 
 # SSH
 - https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys--2
