@@ -3,6 +3,7 @@ A space for useful Linux tutorials
 
 # OPEN-SSH
 - Configuring openSSH - https://help.ubuntu.com/community/SSH/OpenSSH/Configuring
+
 # md5sum
 - https://help.ubuntu.com/community/HowToMD5SUM
 
@@ -27,9 +28,11 @@ A space for useful Linux tutorials
 
 # Life Hacks
 - https://stackoverflow.com/questions/13077241/execute-combine-multiple-linux-commands-in-one-line
-- 
+- https://www.ubuntupit.com/simple-yet-effective-linux-shell-script-examples/ 
 # Changing Hostname
 - https://www.cyberciti.biz/faq/ubuntu-change-hostname-command/
+- https://www.tecmint.com/set-hostname-permanently-in-linux/
+- https://linuxize.com/post/how-to-edit-your-hosts-file/
 
 # Sed
 - https://linuxize.com/post/how-to-use-sed-to-find-and-replace-string-in-files/
