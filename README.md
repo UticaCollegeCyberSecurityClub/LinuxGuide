@@ -28,6 +28,8 @@ A space for useful Linux tutorials
 # Life Hacks
 - https://stackoverflow.com/questions/13077241/execute-combine-multiple-linux-commands-in-one-line
 - 
+# Changing Hostname
+- https://www.cyberciti.biz/faq/ubuntu-change-hostname-command/
 
 # Sed
 - https://linuxize.com/post/how-to-use-sed-to-find-and-replace-string-in-files/
