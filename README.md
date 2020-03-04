@@ -9,6 +9,11 @@ A space for useful Linux tutorials
 # Locales
 - https://www.tecmint.com/set-system-locales-in-linux/
 
+# File 
+- https://linux.die.net/man/1/file
+- https://linuxize.com/post/linux-file-command/
+- https://linux.die.net/man/3/file
+
 # Users 
 - https://www.shellhacks.com/how-to-grant-root-access-user-root-privileges-linux/
 - https://www.cyberciti.biz/faq/linux-list-all-members-of-a-group/
@@ -37,6 +42,11 @@ A space for useful Linux tutorials
 - https://linuxize.com/post/how-to-use-linux-screen/
 - https://www.tecmint.com/screen-command-examples-to-manage-linux-terminals/
 
+# Grep
+- http://man7.org/linux/man-pages/man1/grep.1.html
+- https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/
+- https://www.tecmint.com/12-practical-examples-of-linux-grep-command/
+- https://linux.die.net/man/1/grep
 
 # Monitoring 
 - https://www.tecmint.com/how-to-monitor-keyboard-keystrokes-using-logkeys-in-linux/
