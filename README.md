@@ -71,6 +71,9 @@ A space for useful Linux tutorials
 - https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/
 - https://www.tecmint.com/12-practical-examples-of-linux-grep-command/
 - https://linux.die.net/man/1/grep
+- https://www.linode.com/docs/tools-reference/tools/how-to-grep-for-text-in-files/
+- https://www.shellhacks.com/regex-find-ip-addresses-file-grep/
+- https://www.loggly.com/ultimate-guide/analyzing-linux-logs/
 
 # Monitoring 
 - https://www.tecmint.com/how-to-monitor-keyboard-keystrokes-using-logkeys-in-linux/
