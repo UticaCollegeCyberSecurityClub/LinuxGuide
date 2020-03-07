@@ -4,6 +4,13 @@ A space for useful Linux tutorials
 - https://www.tecmint.com/check-apache-httpd-status-and-uptime-in-linux/
 - https://upcloud.com/community/tutorials/fix-common-problems-apache2/
 - https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-16-04
+
+# Cat
+- https://easyengine.io/tutorials/nginx/log-parsing/
+- http://man7.org/lin
+- https://www.tecmint.com/13-basic-cat-command-examples-in-linux/ux/man-pages/man1/cat.1.html
+- https://linuxize.com/post/linux-cat-command/
+
 # Python 
 - https://docs.python-guide.org/starting/install3/linux/
 - https://realpython.com/installing-python/
@@ -37,7 +44,9 @@ A space for useful Linux tutorials
 
 # Life Hacks
 - https://stackoverflow.com/questions/13077241/execute-combine-multiple-linux-commands-in-one-line
-- https://www.ubuntupit.com/simple-yet-effective-linux-shell-script-examples/ 
+- https://www.ubuntupit.com/simple-yet-effective-linux-shell-script-examples/
+- https://diogomonica.com/2011/02/03/poor-mans-ssh-keylogger/
+
 # Changing Hostname
 - https://www.cyberciti.biz/faq/ubuntu-change-hostname-command/
 - https://www.tecmint.com/set-hostname-permanently-in-linux/
@@ -111,6 +120,9 @@ A space for useful Linux tutorials
 - https://www.digitalocean.com/community/questions/error-permission-denied-publickey-when-i-try-to-ssh
 - https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-ubuntu-1804
 - https://www.digitalocean.com/community/questions/ubuntu-16-04-creating-new-user-and-adding-ssh-keys
+
+# rbash
+- https://www.tecmint.com/rbash-a-restricted-bash-shell-explained-with-practical-examples/
 
 # Crontabs
 - http://crontab.org/
