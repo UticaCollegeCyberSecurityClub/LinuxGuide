@@ -1,5 +1,7 @@
 # LinuxGuide
 A space for useful Linux tutorials 
+# Apache2 
+- https://www.tecmint.com/check-apache-httpd-status-and-uptime-in-linux/
 
 # OPEN-SSH
 - Configuring openSSH - https://help.ubuntu.com/community/SSH/OpenSSH/Configuring
