@@ -2,6 +2,7 @@
 A space for useful Linux tutorials 
 # Apache2 
 - https://www.tecmint.com/check-apache-httpd-status-and-uptime-in-linux/
+- https://upcloud.com/community/tutorials/fix-common-problems-apache2/
 
 # OPEN-SSH
 - Configuring openSSH - https://help.ubuntu.com/community/SSH/OpenSSH/Configuring
