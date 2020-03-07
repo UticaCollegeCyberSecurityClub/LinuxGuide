@@ -4,6 +4,11 @@ A space for useful Linux tutorials
 - https://www.tecmint.com/check-apache-httpd-status-and-uptime-in-linux/
 - https://upcloud.com/community/tutorials/fix-common-problems-apache2/
 - https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-16-04
+# Python 
+- https://docs.python-guide.org/starting/install3/linux/
+- https://realpython.com/installing-python/
+- https://requests.readthedocs.io/en/master/user/install/\
+- https://realpython.com/python-command-line-arguments/
 
 # OPEN-SSH
 - Configuring openSSH - https://help.ubuntu.com/community/SSH/OpenSSH/Configuring
