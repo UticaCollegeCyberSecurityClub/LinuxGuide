@@ -95,6 +95,7 @@ A space for useful Linux tutorials
 - https://www.networkworld.com/article/3293052/encypting-your-files-with-gpg.html
 - https://en.wikipedia.org/wiki/GNU_Privacy_Guard
 - https://kb.iu.edu/d/awio
+- https://davesteele.github.io/gpg/2014/09/20/anatomy-of-a-gpg-key/
 
 # base64
 - https://linux.die.net/man/1/base64
