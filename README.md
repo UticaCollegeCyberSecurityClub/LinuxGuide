@@ -43,6 +43,7 @@ A space for useful Linux tutorials
 - https://www.tecmint.com/create-alias-in-linux/
 - https://www.cyberciti.biz/tips/bash-aliases-mac-centos-linux-unix.html
 - https://linux.die.net/man/1/alias
+- https://linuxize.com/post/how-to-create-bash-aliases/
 
 # Life Hacks
 - https://stackoverflow.com/questions/13077241/execute-combine-multiple-linux-commands-in-one-line
