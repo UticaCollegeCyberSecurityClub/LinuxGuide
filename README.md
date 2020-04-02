@@ -28,6 +28,9 @@ A space for useful Linux tutorials
 # Locales
 - https://www.tecmint.com/set-system-locales-in-linux/
 
+# Search logs
+- https://www.the-art-of-web.com/system/logs/
+
 # File 
 - https://linux.die.net/man/1/file
 - https://linuxize.com/post/linux-file-command/
