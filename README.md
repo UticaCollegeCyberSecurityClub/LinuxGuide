@@ -4,6 +4,7 @@ A space for useful Linux tutorials
 - https://www.tecmint.com/check-apache-httpd-status-and-uptime-in-linux/
 - https://upcloud.com/community/tutorials/fix-common-problems-apache2/
 - https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-16-04
+- https://www.digitalocean.com/community/tutorials/how-to-configure-logging-and-log-rotation-in-apache-on-an-ubuntu-vps
 
 # Cat
 - https://easyengine.io/tutorials/nginx/log-parsing/
