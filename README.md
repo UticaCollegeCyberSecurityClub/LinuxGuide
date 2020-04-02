@@ -11,8 +11,10 @@ A space for useful Linux tutorials
 - http://man7.org/lin
 - https://www.tecmint.com/13-basic-cat-command-examples-in-linux/ux/man-pages/man1/cat.1.html
 - https://linuxize.com/post/linux-cat-command/
-# Viewing logs
+
+# Parsing logs
 - https://www.loggly.com/ultimate-guide/analyzing-linux-logs/
+- https://medium.com/@devopslearning/parsing-log-using-bash-script-ffa3d39ccbff
 
 # Python 
 - https://docs.python-guide.org/starting/install3/linux/
