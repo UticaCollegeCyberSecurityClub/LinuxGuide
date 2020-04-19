@@ -15,6 +15,7 @@ A space for useful Linux tutorials
 # Parsing logs
 - https://www.loggly.com/ultimate-guide/analyzing-linux-logs/
 - https://medium.com/@devopslearning/parsing-log-using-bash-script-ffa3d39ccbff
+- https://stackoverflow.com/questions/13778273/find-unique-lines
 
 # Python 
 - https://docs.python-guide.org/starting/install3/linux/
