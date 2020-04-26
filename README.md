@@ -40,6 +40,9 @@ A space for useful Linux tutorials
 - https://linuxize.com/post/linux-file-command/
 - https://linux.die.net/man/3/file
 
+# Port forwaring 
+- https://www.tixati.com/optimize/open-ports-linux.html
+
 # Users 
 - https://www.shellhacks.com/how-to-grant-root-access-user-root-privileges-linux/
 - https://www.cyberciti.biz/faq/linux-list-all-members-of-a-group/
