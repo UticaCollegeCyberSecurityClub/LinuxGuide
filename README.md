@@ -7,6 +7,9 @@ A space for useful Linux tutorials
 - https://www.digitalocean.com/community/tutorials/how-to-configure-logging-and-log-rotation-in-apache-on-an-ubuntu-vps
 - https://ubuntu.com/tutorials/install-and-configure-apache#2-installing-apache
 
+# Reverse Shells
+- http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
+
 # Cat
 - https://easyengine.io/tutorials/nginx/log-parsing/
 - http://man7.org/lin
