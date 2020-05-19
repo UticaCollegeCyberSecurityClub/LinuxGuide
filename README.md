@@ -5,6 +5,7 @@ A space for useful Linux tutorials
 - https://upcloud.com/community/tutorials/fix-common-problems-apache2/
 - https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-16-04
 - https://www.digitalocean.com/community/tutorials/how-to-configure-logging-and-log-rotation-in-apache-on-an-ubuntu-vps
+- https://ubuntu.com/tutorials/install-and-configure-apache#2-installing-apache
 
 # Cat
 - https://easyengine.io/tutorials/nginx/log-parsing/
