@@ -21,10 +21,14 @@ A space for useful Linux tutorials
 - https://www.tecmint.com/13-basic-cat-command-examples-in-linux/ux/man-pages/man1/cat.1.html
 - https://linuxize.com/post/linux-cat-command/
 
-# Parsing logs
+# Parsing & searching logs
 - https://www.loggly.com/ultimate-guide/analyzing-linux-logs/
 - https://medium.com/@devopslearning/parsing-log-using-bash-script-ffa3d39ccbff
 - https://stackoverflow.com/questions/13778273/find-unique-lines
+- https://ubuntu.com/tutorials/viewing-and-monitoring-log-files#1-overview
+- https://stackify.com/apache-error-log-explained/
+- https://www.the-art-of-web.com/system/logs/
+- https://www.tecmint.com/find-top-ip-address-accessing-apache-web-server/
 
 # Python 
 - https://docs.python-guide.org/starting/install3/linux/
@@ -41,8 +45,6 @@ A space for useful Linux tutorials
 # Locales
 - https://www.tecmint.com/set-system-locales-in-linux/
 
-# Search logs
-- https://www.the-art-of-web.com/system/logs/
 
 # File 
 - https://linux.die.net/man/1/file
