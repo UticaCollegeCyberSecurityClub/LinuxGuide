@@ -10,6 +10,11 @@ A space for useful Linux tutorials
 # Reverse Shells
 - http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
 
+# Squid Proxy 
+- https://www.tecmint.com/install-squid-in-ubuntu/
+- https://whatis.techtarget.com/definition/Squid-proxy-server
+-https://dev.to/suntong/a-short-guide-on-squid-transparent-proxy-ssl-bumping-k5c
+
 # Cat
 - https://easyengine.io/tutorials/nginx/log-parsing/
 - http://man7.org/lin
