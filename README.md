@@ -59,6 +59,7 @@ A space for useful Linux tutorials
 - https://stackoverflow.com/questions/13077241/execute-combine-multiple-linux-commands-in-one-line
 - https://www.ubuntupit.com/simple-yet-effective-linux-shell-script-examples/
 - https://diogomonica.com/2011/02/03/poor-mans-ssh-keylogger/
+- https://softwaretester.info/command-line-banner-grabbing/
 
 # Changing Hostname
 - https://www.cyberciti.biz/faq/ubuntu-change-hostname-command/
