@@ -1,5 +1,9 @@
 # LinuxGuide
 A space for useful Linux tutorials 
+
+# Ls
+- https://www.tecmint.com/15-basic-ls-command-examples-in-linux/
+
 # Apache2 
 - https://www.tecmint.com/check-apache-httpd-status-and-uptime-in-linux/
 - https://upcloud.com/community/tutorials/fix-common-problems-apache2/
