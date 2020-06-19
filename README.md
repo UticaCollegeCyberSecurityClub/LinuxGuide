@@ -153,6 +153,8 @@ A space for useful Linux tutorials
 
 # rbash
 - https://www.tecmint.com/rbash-a-restricted-bash-shell-explained-with-practical-examples/
+# Nmap
+- https://www.linuxhelp.com/how-to-install-nmap-on-ubuntu-17-04
 
 # Crontabs
 - http://crontab.org/
