@@ -10,6 +10,7 @@ A space for useful Linux tutorials
 - https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-16-04
 - https://www.digitalocean.com/community/tutorials/how-to-configure-logging-and-log-rotation-in-apache-on-an-ubuntu-vps
 - https://ubuntu.com/tutorials/install-and-configure-apache#2-installing-apache
+- https://www.dmulholl.com/notes/apache.html
 
 # Reverse Shells
 - http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
@@ -17,13 +18,20 @@ A space for useful Linux tutorials
 # Squid Proxy 
 - https://www.tecmint.com/install-squid-in-ubuntu
 - https://whatis.techtarget.com/definition/Squid-proxy-server
--https://dev.to/suntong/a-short-guide-on-squid-transparent-proxy-ssl-bumping-k5c
+- https://dev.to/suntong/a-short-guide-on-squid-transparent-proxy-ssl-bumping-k5c
 
 # Cat
 - https://easyengine.io/tutorials/nginx/log-parsing
 - http://man7.org/lin
 - https://www.tecmint.com/13-basic-cat-command-examples-in-linux/ux/man-pages/man1/cat.1.html
 - https://linuxize.com/post/linux-cat-command
+
+
+# MySql
+- https://devhints.io/mysql
+- https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-18-04
+- https://phoenixnap.com/kb/how-to-install-mysql-on-ubuntu-18-04
+
 
 # Parsing & searching logs
 - https://www.loggly.com/ultimate-guide/analyzing-linux-logs
@@ -155,10 +163,17 @@ A space for useful Linux tutorials
 # rbash
 - https://www.tecmint.com/rbash-a-restricted-bash-shell-explained-with-practical-examples
 
+# Snort
+- https://upcloud.com/community/tutorials/install-snort-ubuntu
+- https://upcloud.com/community/tutorials/installing-snort-on-centos/
+- https://blog.rapid7.com/2017/01/11/how-to-install-snort-nids-on-ubuntu-linux/
+- https://resources.infosecinstitute.com/snort-rules-workshop-part-one/#gref
+- https://blog.rapid7.com/2016/12/09/understanding-and-configuring-snort-rules/
+- 
 # Nmap
 - https://www.linuxhelp.com/how-to-install-nmap-on-ubuntu-17-04
 - https://www.varonis.com/blog/nmap-commands
-- https://hackertarget.com/nmap-cheatsheet-a-quick-reference-guide/
+- https://hackertarget.com/nmap-cheatsheet-a-quick-reference-guide
 
 # Crontabs
 - http://crontab.org/
