@@ -117,7 +117,7 @@ A space for useful Linux tutorials
 - https://www.tecmint.com/how-to-monitor-keyboard-keystrokes-using-logkeys-in-linux
 - https://www.tecmint.com/sysdig-system-monitoring-and-troubleshooting-tool-for-linux
 
-# TorSock
+# TorSocks
 - https://trac.torproject.org/projects/tor/wiki/doc/torsocks
 
 # GPG
@@ -151,10 +151,14 @@ A space for useful Linux tutorials
 - https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-ubuntu-1804
 - https://www.digitalocean.com/community/questions/ubuntu-16-04-creating-new-user-and-adding-ssh-keys
 - https://linuxize.com/post/how-to-enable-ssh-on-ubuntu-18-04
+
 # rbash
 - https://www.tecmint.com/rbash-a-restricted-bash-shell-explained-with-practical-examples
+
 # Nmap
 - https://www.linuxhelp.com/how-to-install-nmap-on-ubuntu-17-04
+- https://www.varonis.com/blog/nmap-commands
+- https://hackertarget.com/nmap-cheatsheet-a-quick-reference-guide/
 
 # Crontabs
 - http://crontab.org/
