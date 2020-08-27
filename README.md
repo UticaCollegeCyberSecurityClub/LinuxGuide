@@ -1,5 +1,11 @@
 # LinuxGuide
 A space for useful Linux tutorials 
+# SCP
+- https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files
+- https://www.linuxtechi.com/scp-command-examples-in-linux
+- https://www.tecmint.com/scp-commands-examples
+- https://linux.die.net/man/1/scp
+- https://kb.iu.edu/d/agye
 
 # Ls
 - https://www.tecmint.com/15-basic-ls-command-examples-in-linux
