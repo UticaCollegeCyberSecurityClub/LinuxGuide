@@ -1,5 +1,9 @@
 # LinuxGuide
 A space for useful Linux tutorials 
+# rsync
+- https://linux.die.net/man/1/rsync
+- https://www.tecmint.com/rsync-local-remote-file-synchronization-commands
+
 # SCP
 - https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files
 - https://www.linuxtechi.com/scp-command-examples-in-linux
