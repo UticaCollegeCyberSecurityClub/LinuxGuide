@@ -10,6 +10,7 @@ A space for useful Linux tutorials
 - https://www.tecmint.com/scp-commands-examples
 - https://linux.die.net/man/1/scp
 - https://kb.iu.edu/d/agye
+- https://www.techrepublic.com/article/how-to-use-secure-copy-with-ssh-key-authentication
 
 # Ls
 - https://www.tecmint.com/15-basic-ls-command-examples-in-linux
