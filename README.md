@@ -43,6 +43,8 @@ A space for useful Linux tutorials
 - https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-18-04
 - https://phoenixnap.com/kb/how-to-install-mysql-on-ubuntu-18-04
 
+# DF
+- https://linuxize.com/post/how-to-check-disk-space-in-linux-using-the-df-command/
 
 # Parsing & searching logs
 - https://www.loggly.com/ultimate-guide/analyzing-linux-logs
