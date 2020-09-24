@@ -165,6 +165,9 @@ A space for useful Linux tutorials
 - https://askubuntu.com/questions/767504/permissions-problems-with-var-www-html-and-my-own-home-directory-for-a-website
 
 
+# Shadow_file
+- https://linuxize.com/post/etc-shadow-file
+
 # SSH
 - https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys--2
 - https://www.freecodecamp.org/news/the-ultimate-guide-to-ssh-setting-up-ssh-keys
