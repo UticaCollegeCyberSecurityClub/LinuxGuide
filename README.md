@@ -84,6 +84,7 @@ A space for useful Linux tutorials
 - https://www.cyberciti.biz/faq/linux-list-all-members-of-a-group
 - https://www.tecmint.com/create-a-shared-directory-in-linux
 - https://www.linux.com/tutorials/how-wrestle-control-sudo-sudoers
+- https://linuxize.com/post/how-to-list-users-in-linux
 
 # Alias 
 - https://www.tecmint.com/create-alias-in-linux
