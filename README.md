@@ -12,6 +12,9 @@ A space for useful Linux tutorials
 - https://kb.iu.edu/d/agye
 - https://www.techrepublic.com/article/how-to-use-secure-copy-with-ssh-key-authentication
 
+# Finger
+- https://kb.iu.edu/d/aasp
+
 # Ls
 - https://www.tecmint.com/15-basic-ls-command-examples-in-linux
 
