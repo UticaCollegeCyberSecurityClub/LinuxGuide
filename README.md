@@ -25,6 +25,10 @@ A space for useful Linux tutorials
 - https://www.digitalocean.com/community/tutorials/how-to-configure-logging-and-log-rotation-in-apache-on-an-ubuntu-vps
 - https://ubuntu.com/tutorials/install-and-configure-apache#2-installing-apache
 - https://www.dmulholl.com/notes/apache.html
+- https://askubuntu.com/questions/767504/permissions-problems-with-var-www-html-and-my-own-home-directory-for-a-website'
+
+
+
 
 # Reverse Shells
 - http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
