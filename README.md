@@ -87,6 +87,7 @@ A space for useful Linux tutorials
 - https://linuxize.com/post/how-to-list-users-in-linux
 - https://www.tecmint.com/add-users-in-linux
 - https://linuxize.com/post/how-to-delete-users-in-linux-using-the-userdel-command
+- https://www.cyberciti.biz/faq/linux-locking-an-account
 
 # Alias 
 - https://www.tecmint.com/create-alias-in-linux
