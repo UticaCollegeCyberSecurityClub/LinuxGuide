@@ -1,5 +1,10 @@
 # LinuxGuide
 A space for useful Linux tutorials 
+
+
+# cut
+- https://linuxize.com/post/linux-cut-command/
+
 # rsync
 - https://linux.die.net/man/1/rsync
 - https://www.tecmint.com/rsync-local-remote-file-synchronization-commands
