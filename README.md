@@ -1,9 +1,11 @@
 # LinuxGuide
 A space for useful Linux tutorials 
 
+# awk
+- https://linuxize.com/post/awk-command
 
 # cut
-- https://linuxize.com/post/linux-cut-command/
+- https://linuxize.com/post/linux-cut-command
 
 # rsync
 - https://linux.die.net/man/1/rsync
